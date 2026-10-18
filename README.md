@@ -2,7 +2,7 @@
 - 👀 I’m interested in Information Security | Cyber Security | DevSecOps
 - 🌱 I’m currently learning lots... of things
 - 💞️ I’m looking to collaborate on ... things
-- 📫 How to reach me @ :portugal: https://www.linkedin.com/in/joaopaulino/ http://7j2zyqfa6zrj3xk5tgb566anqmrasq2mjerhhiwdyprwcd3ggnqnpaad.onion/
+- 📫 How to reach me @ :portugal: https://www.linkedin.com/in/joaopaulino/
 
 
 <!---
