@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joao-Paulino
-- 👀 I’m interested in Information Security | Cyber Security | DevSecOps
+- 👀 I’m interested in Information Security | Cyber Security | SecOps | DevSecOps
 - 🌱 I’m currently learning lots... of things
 - 💞️ I’m looking to collaborate on ... things
 - 📫 How to reach me @ :portugal: https://www.linkedin.com/in/joaopaulino/
