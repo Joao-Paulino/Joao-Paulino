@@ -7,6 +7,7 @@
 - 📋 Implement management systems end to end: ISO/IEC 27001 (IT), ISA/IEC 62443 (OT/industrial) and NIST CSF
 - 🏭 Bridge IT and OT security, from PLCs to the cloud
 - 🎯 Run incident response tabletop exercises and design technical training
+- 🔍 Hands-on penetration testing experience
 - 📊 IPMA Level C Certified Project Manager, bringing delivery discipline to security work
 
 ## 🧭 Background
