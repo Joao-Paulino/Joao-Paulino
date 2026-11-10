@@ -1,6 +1,6 @@
 # Hi, I'm João 👋
 
-🛡️ Security and DevSecOps practitioner based in Lisbon, Portugal 🇵🇹
+🛡️ Security and SecOps | DevSecOps practitioner based in Lisbon, Portugal 🇵🇹
 
 ## 🔧 What I do
 - ☁️ Build and run secure cloud infrastructure as code
